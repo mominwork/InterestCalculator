@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InterestCalculator</string>
+    <string name="principal_amount">Principal Amount :</string>
+    <string name="interest_rate">Interest Rate :</string>
+    <string name="put_amount">put amount</string>
+    <string name="put_percentage">put percentage</string>
+    <string name="time_period">Time Period :</string>
+    <string name="put_year">put year</string>
+    <string name="calculate">Calculate</string>
+    <string name="interest_amount">Interest Amount :</string>
+    <string name="total_amount">Total Amount :</string>
+    <string name="show_amount">show amount</string>
+</resources>
